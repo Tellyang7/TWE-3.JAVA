@@ -8,3 +8,5 @@
 - 1. Get the [gibbslda++](http://gibbslda.sourceforge.net/), run it and get the tassign file and the wordmap.txt 
 - 2. Use the command: java main wordmap_filename tassign_filename to run the TWE-3 
 - 3. Output file are under the directory output: word_vector.txt and topic_vector.txt
+
+***I only implement the "negative sampling", hierarchical optimization is not include***
